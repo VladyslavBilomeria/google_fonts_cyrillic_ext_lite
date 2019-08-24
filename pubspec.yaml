@@ -1,6 +1,6 @@
 name: google_fonts_cyrillic_ext_lite
-description: Cyrillic Extended fonts by google right into your Flutter application. Contains only regular styles of fonts. Taken from https:&#x2F;&#x2F;fonts.google.com.
-version: 0.1.1
+description: Cyrillic Extended fonts by google right into your Flutter application. Contains only Regular styles of fonts. Taken from https://fonts.google.com.
+version: 1.0.0
 author: Vladislav Belomerya <belomerya.vladislav@gmail.com>
 homepage: https://github.com/VladislavBelomerya/google_fonts_cyrillic_ext_lite
 
